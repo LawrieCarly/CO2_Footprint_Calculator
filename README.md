@@ -6,7 +6,7 @@ Technologies Used
 
 <i>React, MongoDB, SurveyJS, Highcharts</i>
 
-The questionnaire is built using the <i>SurveyJS</i> library. Each answer in the questionnaire has a numerical value that contributes to a ‘final score’. The total value is also broken down into three sub-totals: Transport, Food, and Travel. A dynamic graph from the <i>Highcharts</i> for React library is used to display data from the API (built with <i>MongoDB</i>). 
+The questionnaire is built using the <i>SurveyJS</i> library. Each answer in the questionnaire has a numerical value that contributes to a ‘final score’. The total value is also broken down into three sub-totals: Transport, Food, and Travel. A dynamic graph from the <i>Highcharts</i> React library is used to display data from the API (built with <i>MongoDB</i>). 
 
 Installing and running the app
 
